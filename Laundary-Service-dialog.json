@@ -1,0 +1,1789 @@
+{
+  "intents": [
+    {
+      "intent": "AddOns",
+      "examples": [
+        {
+          "text": "addons"
+        },
+        {
+          "text": "Antiseptic"
+        },
+        {
+          "text": "Any add ons?"
+        },
+        {
+          "text": "Anything else"
+        },
+        {
+          "text": "Are there any other services available?"
+        },
+        {
+          "text": "Conditioner"
+        },
+        {
+          "text": "Cuff and Collor cleaning"
+        },
+        {
+          "text": "dry cleaning"
+        },
+        {
+          "text": "Fabric Softner"
+        },
+        {
+          "text": "Other services"
+        },
+        {
+          "text": "Shoe cleaning"
+        },
+        {
+          "text": "Stain removal"
+        },
+        {
+          "text": "Starch"
+        },
+        {
+          "text": "What else ?"
+        },
+        {
+          "text": "Yes"
+        }
+      ],
+      "description": "Other laundary services"
+    },
+    {
+      "intent": "Address",
+      "examples": [
+        {
+          "text": "Address?"
+        },
+        {
+          "text": "Location?"
+        },
+        {
+          "text": "Please provide your address"
+        },
+        {
+          "text": "shop location?"
+        },
+        {
+          "text": "what is your address?"
+        },
+        {
+          "text": "where is your shop located?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Cancel",
+      "examples": [
+        {
+          "text": "Cancel"
+        },
+        {
+          "text": "Cancel my Schedule"
+        },
+        {
+          "text": "I dont want any service from you"
+        },
+        {
+          "text": "I want to cancel my pickup"
+        },
+        {
+          "text": "I would like to cancal my order"
+        },
+        {
+          "text": "Please cancel my laundry"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Contact",
+      "examples": [
+        {
+          "text": "Are you available on social media?"
+        },
+        {
+          "text": "contact details"
+        },
+        {
+          "text": "How can I approach you?"
+        },
+        {
+          "text": "how can I contact you?"
+        },
+        {
+          "text": "How can i get to know the updates"
+        },
+        {
+          "text": "Mobile number"
+        },
+        {
+          "text": "phone number"
+        },
+        {
+          "text": "please share your contact details"
+        },
+        {
+          "text": "What are your other handles?"
+        },
+        {
+          "text": "what are your social media handles?"
+        },
+        {
+          "text": "what is your contact number?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Details",
+      "examples": [
+        {
+          "text": "Details"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "Could you help me?"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "How are you"
+        },
+        {
+          "text": "Howdy"
+        },
+        {
+          "text": "Regards"
+        },
+        {
+          "text": "Tell me Something"
+        },
+        {
+          "text": "What's Up"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Help_Query",
+      "examples": [
+        {
+          "text": "Can I ask a question?"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "I have a question"
+        },
+        {
+          "text": "I need support"
+        },
+        {
+          "text": "question"
+        },
+        {
+          "text": "Support"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Packages",
+      "examples": [
+        {
+          "text": "Any packages available"
+        },
+        {
+          "text": "Are there any monthly packages?"
+        },
+        {
+          "text": "Are there any packages available?"
+        },
+        {
+          "text": "Are there any weekly packages?"
+        },
+        {
+          "text": "Do you have any packages?"
+        },
+        {
+          "text": "Monthly packages"
+        },
+        {
+          "text": "Packages?"
+        },
+        {
+          "text": "What packages do you offer?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "pickanddrop",
+      "examples": [
+        {
+          "text": "could you pick from my home?"
+        },
+        {
+          "text": "could you take clothes from my house?"
+        },
+        {
+          "text": "Do you provide pick and drop services?"
+        },
+        {
+          "text": "pick and drop"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Services",
+      "examples": [
+        {
+          "text": "Hi,what are your services?"
+        },
+        {
+          "text": "How can you assist me?"
+        },
+        {
+          "text": "More about services"
+        },
+        {
+          "text": "Services"
+        },
+        {
+          "text": "Types of Services"
+        },
+        {
+          "text": "Various Services"
+        },
+        {
+          "text": "What are the services available?"
+        },
+        {
+          "text": "What are the services provided by you?"
+        },
+        {
+          "text": "What type of Services do you offer?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Speciality",
+      "examples": [
+        {
+          "text": "features"
+        },
+        {
+          "text": "speciality"
+        },
+        {
+          "text": "What are your features?"
+        },
+        {
+          "text": "What is your speciality?"
+        },
+        {
+          "text": "Why?"
+        },
+        {
+          "text": "Why should i choose you?"
+        },
+        {
+          "text": "Why u?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ThankYou",
+      "examples": [
+        {
+          "text": "no"
+        },
+        {
+          "text": "Thanks a lot."
+        },
+        {
+          "text": "Thanks for the help."
+        },
+        {
+          "text": "Thank You."
+        },
+        {
+          "text": "Thankyou for the services."
+        },
+        {
+          "text": "Thank you, I am done."
+        },
+        {
+          "text": "Thank you very much"
+        },
+        {
+          "text": "Thank you, you are amazing!"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Timings",
+      "examples": [
+        {
+          "text": "Off Days?"
+        },
+        {
+          "text": "Timings??"
+        },
+        {
+          "text": "what are your off days?"
+        },
+        {
+          "text": "what are your timings?"
+        },
+        {
+          "text": "what are your working days?"
+        },
+        {
+          "text": "What are your working hours?"
+        },
+        {
+          "text": "Working Days?"
+        },
+        {
+          "text": "Working hours?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "addons",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Antiseptic",
+          "synonyms": [
+            "3",
+            "Anti",
+            "AS",
+            "Septic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cuff & Collor Cleaning upto 5kg",
+          "synonyms": [
+            "2",
+            "Collor",
+            "Collor Cleaning",
+            "Cuff",
+            "Cuff Cleaning",
+            "Upto 5Kg"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Dry Cleaning :Blanket",
+          "synonyms": [
+            "7",
+            "Blanket",
+            "Double",
+            "Dry Cleaning",
+            "Single",
+            "Single & Double"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fabric Softener & Conditioner-50ml/cup",
+          "synonyms": [
+            "1",
+            "50ml/cup",
+            "Conditioner",
+            "Fabric Softener",
+            "Softener"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "no",
+            "nope",
+            "not"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Shoe Laundry",
+          "synonyms": [
+            "6",
+            "Boots",
+            "Flip-Flops",
+            "Loafer",
+            "Pair of Shoes",
+            "Shoe",
+            "Sneaker",
+            "Sport shoes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Stain Removal",
+          "synonyms": [
+            "5",
+            "removal",
+            "Remove",
+            "SR",
+            "Stain",
+            "Stn",
+            "Stn Remove"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Starch",
+          "synonyms": [
+            "4",
+            "St",
+            "Strch"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Yes",
+          "synonyms": [
+            "Absolutely",
+            "Sure",
+            "YES",
+            "Yup"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Decision",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "no",
+            "Nope",
+            "not "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Yes",
+          "synonyms": [
+            "absolutely",
+            "yes",
+            "Yup"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Info",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "MonthlyWeeklyPackage",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "10Kg Wash & Iron",
+          "synonyms": [
+            "10",
+            "10 kg",
+            "3",
+            "Rs.480"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "15Kg Wash & Iron",
+          "synonyms": [
+            "15Kg",
+            "4",
+            "Rs.600"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "20Kg Wash & Iron",
+          "synonyms": [
+            "1",
+            "20Kg",
+            "Rs.850"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "30Kg Wash & Iron",
+          "synonyms": [
+            "2",
+            "30Kg",
+            "Rs.1200"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "no",
+            "Nope",
+            "not"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Services",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "no",
+            "Nope",
+            "not"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Steam Iron",
+          "synonyms": [
+            "3 ",
+            "S & I",
+            "Si"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Wash & Fold",
+          "synonyms": [
+            "1",
+            " W & F",
+            "Wf"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Wash & Steam Iron",
+          "synonyms": [
+            "2",
+            " W & S",
+            "Ws"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "parent": "node_3_1643201716520",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1643547451723"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_3_1643547375631",
+      "event_name": "input",
+      "dialog_node": "handler_2_1643547375649"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_10_1643547784750",
+      "disabled": true,
+      "event_name": "focus",
+      "dialog_node": "handler_3_1643560882129",
+      "previous_sibling": "node_3_1643561274290"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_7_1643560883147",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1643560883170",
+      "previous_sibling": "handler_6_1643560883170"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1643560883147",
+      "context": {
+        "": ""
+      },
+      "conditions": "",
+      "event_name": "input",
+      "dialog_node": "handler_6_1643560883170"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1643547375631",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1643547375649",
+      "previous_sibling": "handler_2_1643547375649"
+    },
+    {
+      "type": "standard",
+      "title": "Services",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Cleanliness is our second name.✨"
+              },
+              {
+                "text": "The Services provided by us are are-\n👇👇👇👇👇👇👇👇👇👇👇👇\n1)Wash & Fold-                 Rs.45/Kg\n\n2)Wash & Steam Iron-    Rs.65/Kg\n\n3) Steam Iron-                  Starts @ Rs.7/Kg\n"
+              },
+              {
+                "text": "\n\nWhat type of Service do you want to avail?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Services",
+      "dialog_node": "node_10_1643203303886",
+      "previous_sibling": "node_8_1643213320643"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay will do that for you."
+              },
+              {
+                "text": "Do you want any add on?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1643203571075",
+      "conditions": "@MonthlyWeeklyPackage:(30Kg Wash & Iron) ||   @MonthlyWeeklyPackage:(20Kg Wash & Iron) ||  @MonthlyWeeklyPackage:(10Kg Wash & Iron) || @MonthlyWeeklyPackage:(15Kg Wash & Iron)",
+      "dialog_node": "node_10_1643206386554"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please Input your Required details:\n--Your Name\n--Address\n--Your mobile number\n--Date of Service"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "@addons || @MonthlyWeeklyPackage || @Services",
+      "dialog_node": "node_10_1643547784750",
+      "previous_sibling": "node_6_1643209796798"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Anything else can we do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1643203571075",
+      "conditions": "@MonthlyWeeklyPackage:No",
+      "dialog_node": "node_10_1643551137888",
+      "previous_sibling": "node_10_1643206386554"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say."
+              },
+              {
+                "text": "Please Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1643207665654",
+      "conditions": "anything_else",
+      "dialog_node": "node_10_1643556758233",
+      "previous_sibling": "node_8_1643556815732"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say.\nPlease Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1643211726978",
+      "conditions": "anything_else",
+      "dialog_node": "node_10_1643557993454"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Anything else can we do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1643209796798",
+      "conditions": "@addons:No",
+      "dialog_node": "node_10_1643558088918"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We also have Monthly and Weekly Packages too-\n\nMonthly Packages\n1 20 Kg Wash & Iron -        Rs 850/-\n2 30 Kg Wash & Iron -        Rs 1200/-\n\n Weekly Packages\n3 10 Kg Wash & Iron-          Rs 480/-  \n4 15 Kg Wash & Iron-          Rs 600/-\n"
+              },
+              {
+                "text": "\nWe also collaborate with institutions/industries for more information you can Contact us on 123456XXXX"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1643203303886",
+      "conditions": "@Services:(Wash & Steam Iron) ||  @Services:(Wash & Fold) || @Services:(Steam Iron)",
+      "dialog_node": "node_1_1643203571075"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say.\nPlease Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1643212117441",
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1643557977624"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say.\nPlease Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1643209796798",
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1643558078516",
+      "previous_sibling": "node_1_1643558264139"
+    },
+    {
+      "type": "standard",
+      "parent": "node_6_1643209796798",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1643547784750"
+      },
+      "conditions": "@addons:(Shoe Laundry) || @addons:Yes ||         @addons:(Cuff & Collor Cleaning upto 5kg) ||       @addons:(Fabric Softener & Conditioner-50ml/cup) || @addons:Antiseptic || @addons:Starch ||    @addons:(Stain Removal) || @addons:(Dry Cleaning :Blanket)",
+      "dialog_node": "node_1_1643558264139",
+      "previous_sibling": "node_10_1643558088918"
+    },
+    {
+      "type": "standard",
+      "title": "Our Speciality",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\nOur laundry service is best amongst other services in the city because we provide best care to your clothes and ensure that you receive high quality services at low prices."
+              },
+              {
+                "text": "✅ECONOMICAL PRICING"
+              },
+              {
+                "text": "✅ECO-FRIENDLY"
+              },
+              {
+                "text": "✅GUARANTEED SATISFACTORY"
+              },
+              {
+                "text": "✅CONVENIENT SERVICES"
+              },
+              {
+                "text": "✅PICKUP & DELIVERY"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://laundrywala.in/wp-content/uploads/2021/09/img-2.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Speciality",
+      "dialog_node": "node_2_1643209182019",
+      "previous_sibling": "node_3_1643201716520"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell me What can I do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1643556288723",
+      "conditions": "@Decision:Yes",
+      "dialog_node": "node_2_1643556364999",
+      "previous_sibling": "node_5_1643556361963"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell me What can I do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1643558088918",
+      "conditions": "@Decision:Yes",
+      "dialog_node": "node_2_1643558184945",
+      "previous_sibling": "node_9_1643558166760"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi!"
+              },
+              {
+                "text": "Welcome to Laundry Station.\n\nWe wash with love and care❤!\n\n--Your Clothes are processed with World's best laundry station.⭐\n--Your Clothes are washed with the best detergents and chemicals.🧼\n--Each Stain is individually treated.👕\n--Your Clothes are processed in the World's most advanced commercial laundry equipments.🧴\n--Same Day Delivery📦\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "source": "https://previews.123rf.com/images/iconicbestiary/iconicbestiary1708/iconicbestiary170800123/83684034-l%C3%ADnea-de-lavander%C3%ADas-p%C3%BAblicas-de-lavadoras-cesta-de-lavadero-con-ropa-sucia-delante-de-la-lavadora-d.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "How can we help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#Greetings",
+      "dialog_node": "node_3_1643201716520",
+      "previous_sibling": "node_4_1643559171705"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say."
+              },
+              {
+                "text": "Please Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1643203571075",
+      "conditions": "anything_else",
+      "dialog_node": "node_3_1643551010499",
+      "previous_sibling": "node_10_1643551137888"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Anything else can we do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1643206386554",
+      "conditions": "@addons:No",
+      "dialog_node": "node_3_1643556288723",
+      "previous_sibling": "node_8_1643546698467"
+    },
+    {
+      "type": "standard",
+      "parent": "node_8_1643556815732",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1643207803232"
+      },
+      "conditions": "@Decision:No",
+      "dialog_node": "node_3_1643556865575"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We have received your details. It will be a pleasure in providing our service to you."
+              },
+              {
+                "text": "Laundry is scheduled for you."
+              },
+              {
+                "text": "For any changes,\n\nCall us on: 📞123456XXXX"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1643547784750",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1643207803232"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_3_1643561274290"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our Timings 🕒 are as:\n\nMonday:                   9:00am to 8:00pm\nTuesday:                  9:00am to 8:00pm\nWednesday:            9:00am to 8:00pm\nThursday:                9:00am to 8:00pm\nFriday:                      9:00am to 8:00pm\nSaturday:                 9:00am to 12 noon\nSunday:                    OFF"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Timings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1643211726978",
+      "previous_sibling": "node_5_1643212117441"
+    },
+    {
+      "type": "standard",
+      "parent": "node_6_1643551684354",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_6_1643209796798"
+      },
+      "conditions": "@addons:Yes",
+      "dialog_node": "node_4_1643557000363"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say.\nPlease Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1643209182019",
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1643557901901"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to Laundry Station!\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1643559171705"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes we provide Pick and Drop Services within 2 Km range. \n\nFor that please contact 123456XXXX"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://www.gorsehilldrycleaners.co.uk/blog/wp-content/uploads/2017/03/Pick-and-Drop-Laundry-Service.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#pickanddrop",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1643209128472",
+      "previous_sibling": "node_4_1643211726978"
+    },
+    {
+      "type": "standard",
+      "title": "Help",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For any queries & more support, You can contact us at:\n\n📞 CALL US\n      +91 XXXXXXXXXXX"
+              },
+              {
+                "text": "\n📧 OUR EMAIL\n       info-laundrystation.in\n"
+              },
+              {
+                "text": "instagram us: Laundary_Station"
+              },
+              {
+                "text": "\nOr visit us :\n\n🌏 OUR LOCATION\n       Xyz road, Dehradun\n       UK 248001, INDIA"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "source": "",
+            "alt_text": "Laundary_Station",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Help_Query",
+      "dialog_node": "node_5_1643212117441",
+      "previous_sibling": "node_8_1643211746993"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell me What can I do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1643551137888",
+      "conditions": "@Decision:Yes",
+      "dialog_node": "node_5_1643556106013",
+      "previous_sibling": "node_7_1643555986464"
+    },
+    {
+      "type": "standard",
+      "parent": "node_3_1643556288723",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1643547784750"
+      },
+      "conditions": "@Decision:No",
+      "dialog_node": "node_5_1643556361963"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell me What can I do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1643557044668",
+      "conditions": "@Decision:Yes",
+      "dialog_node": "node_5_1643557232033",
+      "previous_sibling": "node_6_1643557229728"
+    },
+    {
+      "type": "standard",
+      "title": "Add-Ons",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We provide the following add ons:\n👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇\n1) Fabric Softener & Conditioner - 50 ml/cup                                    Rs 20/-\n2) Cuff & Collar Cleaning upto 5 kg                                                       Rs 30/-\n3) Antiseptic                                                                                               Rs 5/- kg \n4) Starch                                                                                                      Rs 20/- piece\n5) Stain Remover                                                                                       Rs 20/- stain\n6) Shoe Laundry                                                                                         Rs 150/- pair*\n7) Dry Cleaning Blanket\n                               (Single)                                                                            Rs 200/-\n                               (Double)                                                                         Rs 250/-"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#AddOns",
+      "dialog_node": "node_6_1643209796798",
+      "previous_sibling": "node_8_1643207665654"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay will do that for you."
+              },
+              {
+                "text": "Do you want any add on?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1643207665654",
+      "conditions": "@MonthlyWeeklyPackage:(30Kg Wash & Iron) ||   @MonthlyWeeklyPackage:(20Kg Wash & Iron) ||  @MonthlyWeeklyPackage:(15Kg Wash & Iron) || @MonthlyWeeklyPackage:(10Kg Wash & Iron)",
+      "dialog_node": "node_6_1643551684354"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell me What can I do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1643556815732",
+      "conditions": "@Decision:Yes",
+      "dialog_node": "node_6_1643556868090",
+      "previous_sibling": "node_3_1643556865575"
+    },
+    {
+      "type": "standard",
+      "parent": "node_8_1643557044668",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1643547784750"
+      },
+      "conditions": "@Decision:No",
+      "dialog_node": "node_6_1643557229728"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say.\nPlease Try Again"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1643203303886",
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1643549418256",
+      "previous_sibling": "node_8_1643554947410"
+    },
+    {
+      "type": "standard",
+      "parent": "node_8_1643554947410",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1643207803232"
+      },
+      "conditions": "@Decision:No",
+      "dialog_node": "node_7_1643555684231"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell me What can I do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1643554947410",
+      "conditions": "@Decision:Yes",
+      "dialog_node": "node_7_1643555728132",
+      "previous_sibling": "node_7_1643555684231"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1643551137888",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1643547784750"
+      },
+      "conditions": "@Decision:No",
+      "dialog_node": "node_7_1643555986464"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say."
+              },
+              {
+                "text": "Please Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1643551684354",
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1643557046331",
+      "previous_sibling": "node_8_1643557044668"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say."
+              },
+              {
+                "text": "Please Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1643206386554",
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1643557072177",
+      "previous_sibling": "node_3_1643556288723"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say.\nPlease Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1643211746993",
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1643557945691"
+    },
+    {
+      "type": "standard",
+      "title": "Packages",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We also have Monthly and Weekly Packages as-\n\nMonthly Packages\n1 20 Kg Wash & Iron -        Rs 850/-\n2 30 Kg Wash & Iron -        Rs 1200/-\n\n Weekly Packages\n3 10 Kg Wash & Iron-          Rs 480/-  \n4  15 Kg Wash & Iron-          Rs 600/-"
+              },
+              {
+                "text": "We also collaborate with institutions/industries for more information you can Contact us on 123456XXXX"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Packages",
+      "dialog_node": "node_8_1643207665654",
+      "previous_sibling": "node_10_1643203303886"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🌏 OUR LOCATION\n       Xyz road, Dehradun\n       UK 248001, INDIA"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Address",
+      "dialog_node": "node_8_1643211746993",
+      "previous_sibling": "node_2_1643209182019"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our Contact details are :\n📞123456XXXX\n📧 info-laundrystation.in\n      Laundry_station/instagram.in\n      Laundry_station/twitter.in\n      "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Contact",
+      "dialog_node": "node_8_1643213320643",
+      "previous_sibling": "node_5_1643209128472"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1643206386554",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_6_1643209796798"
+      },
+      "conditions": "@addons:Yes",
+      "dialog_node": "node_8_1643546698467"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Anything else can we do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1643203303886",
+      "conditions": "@Services:No",
+      "dialog_node": "node_8_1643554947410",
+      "previous_sibling": "node_1_1643203571075"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Anything else can we do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1643207665654",
+      "conditions": "@MonthlyWeeklyPackage:No",
+      "dialog_node": "node_8_1643556815732",
+      "previous_sibling": "node_6_1643551684354"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Anything else can we do for you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1643551684354",
+      "conditions": "@addons:No",
+      "dialog_node": "node_8_1643557044668",
+      "previous_sibling": "node_4_1643557000363"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say.\nPlease Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1643209128472",
+      "conditions": "anything_else",
+      "dialog_node": "node_8_1643558012094"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://clipart.world/wp-content/uploads/2021/01/Thank-You-clipart-18.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#ThankYou",
+      "dialog_node": "node_9_1643207803232",
+      "previous_sibling": "node_9_1643212577150"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No issues. We will cancel your order. We are always there for you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_9_1643207803232"
+      },
+      "conditions": "#Cancel",
+      "dialog_node": "node_9_1643212577150",
+      "previous_sibling": "node_10_1643547784750"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, We do not understand what are you trying to say.\nPlease Try Again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1643213320643",
+      "conditions": "anything_else",
+      "dialog_node": "node_9_1643558026881"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1643558088918",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1643207803232"
+      },
+      "conditions": "@Decision:No",
+      "dialog_node": "node_9_1643558166760"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi!"
+              },
+              {
+                "text": "Welcome to Laundry Station.\n\nWe wash with love and care❤!\n\n--Your Clothes are processed with World's best laundry station.⭐\n--Your Clothes are washed with the best detergents and chemicals.🧼\n--Each Stain is individually treated.👕\n--Your Clothes are processed in the World's most advanced commercial laundry equipments.🧴\n--Same Day Delivery📦\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "source": "https://previews.123rf.com/images/iconicbestiary/iconicbestiary1708/iconicbestiary170800123/83684034-l%C3%ADnea-de-lavander%C3%ADas-p%C3%BAblicas-de-lavadoras-cesta-de-lavadero-con-ropa-sucia-delante-de-la-lavadora-d.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "How can we help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1643201716520",
+      "disabled": true,
+      "dialog_node": "response_6_1643547374700",
+      "previous_sibling": "slot_3_1643547375631"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1643201716520",
+      "dialog_node": "slot_3_1643547375631",
+      "previous_sibling": "handler_1_1643547451723"
+    },
+    {
+      "type": "slot",
+      "parent": "node_10_1643547784750",
+      "variable": "$",
+      "dialog_node": "slot_7_1643560883147",
+      "previous_sibling": "handler_3_1643560882129"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "no"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Laundary Service",
+  "language": "en",
+  "description": ""
+}
